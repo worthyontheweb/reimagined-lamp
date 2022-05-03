@@ -1,2 +1,2 @@
 # reimagined-lamp
-training repo for village web co
+Training repo for village web co
